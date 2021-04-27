@@ -30,6 +30,8 @@ public class ReflectUpdateField {
         sal.setAccessible(true);
         sal.set(o,3000);
         System.out.println("update obj:" + o);
+
+        System.out.println("git by zhj");
     }
 
 }
