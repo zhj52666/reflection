@@ -32,6 +32,8 @@ public class ReflectUpdateField {
         System.out.println("update obj:" + o);
 
         System.out.println("git by zhj");
+
+        System.out.println("git by master");
     }
 
 }
